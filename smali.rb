@@ -3,7 +3,7 @@ class Smali < Formula
   homepage "https://github.com/AbdullahRafsan/homebrew-brewtap"
   url "https://github.com/AbdullahRafsan/homebrew-brewtap/raw/refs/heads/main/smali.zip"
   version "2.5.2"
-  sha256 "c1cde6330f43ab2ad17a5da8cc066f043cf323005a9c2337accc50e452f19a9e"
+  sha256 "80970c8a934739d4071ef57126e5f427521814910277ddb69ab644ba835fabac"
   license "MIT"
 
   depends_on "openjdk"
