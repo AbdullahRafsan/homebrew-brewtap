@@ -1,4 +1,4 @@
-class Java2Smali < Formula
+class Java2smali < Formula
   desc "Program to convert java to smali"
   homepage "https://github.com/AbdullahRafsan/homebrew-brewtap"
   url "https://github.com/AbdullahRafsan/homebrew-brewtap/raw/refs/heads/main/j2s.zip"
